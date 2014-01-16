@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<examples>
+	<student id="1" name="Kate" electronics="4.8" computerScience="5.0"
+		mathematics="4.7" english="4.3" german="4.7">
+	</student>
+
+	<student id="2" name="Margaret" electronics="4.4" computerScience="4.7"
+		mathematics="4.8" english="4.4" german="4.4">
+	</student>
+
+	<student id="3" name="Anne" electronics="4.9" computerScience="4.9"
+		mathematics="4.6" english="4.7" german="4.3">
+	</student>
+
+	<student id="4" name="Tom" electronics="4.5" computerScience="4.8"
+		mathematics="4.9" english="5.0" german="4.5">
+	</student>
+
+	<student id="5" name="Jack" electronics="5.0" computerScience="4.6"
+		mathematics="4.7" english="4.4" german="5.0">
+	</student>
+
+	<student id="6" name="Michael" electronics="4.9" computerScience="4.5"
+		mathematics="5.0" english="4.5" german="4.4">
+	</student>
+
+
+</examples>
